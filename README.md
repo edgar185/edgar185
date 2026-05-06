@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @edgar185 
 - 👀 I’m interested in Web Development, AI, Cloud Architecture 
-- 🌱 I’m currently learning AWS Architecture
+- 🌱 I’m currently learning AWS Azure Google Cloud Computing Architecture
 - 💞️ I’m looking to collaborate on projects AI devops, collaborting open source topics
 - 📫 How to reach me edgar.cantu77@hotmail.com
 - 😄 Pronouns: Men 
